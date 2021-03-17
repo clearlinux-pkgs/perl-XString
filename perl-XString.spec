@@ -4,7 +4,7 @@
 #
 Name     : perl-XString
 Version  : 0.005
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/XString-0.005.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/XString-0.005.tar.gz
 Summary  : 'Isolated String helpers from B'
@@ -97,5 +97,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/XString.pm
-/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/XString/XString.so
+/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/XString.pm
+/usr/lib/perl5/vendor_perl/5.32.1/x86_64-linux-thread-multi/auto/XString/XString.so

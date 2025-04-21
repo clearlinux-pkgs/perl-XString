@@ -7,7 +7,7 @@
 #
 Name     : perl-XString
 Version  : 0.005
-Release  : 21
+Release  : 22
 URL      : https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/XString-0.005.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AT/ATOOMIC/XString-0.005.tar.gz
 Summary  : 'Isolated String helpers from B'
